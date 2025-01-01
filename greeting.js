@@ -1,7 +1,7 @@
 // greeting function
 
-const greet = (name) => {
+const greeting = (name) => {
    return `Welcome ${name}`
 }
 
-console.log(greet("nehal"))
+console.log(greeting("nehal"))
