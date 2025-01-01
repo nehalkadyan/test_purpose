@@ -1,7 +1,7 @@
 // greeting function
 
 const greeting = (name) => {
-   return `Welcome ${name}`
+   return `Hello! Welcome ${name}`
 }
 
 console.log(greeting("nehal"))
